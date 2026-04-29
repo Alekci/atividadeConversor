@@ -8,7 +8,7 @@ Bem-vindo à documentação oficial da API **atividadeConversor**. Esta API REST
 
 ## 📌 Informações Básicas
 
-* **URL Base:** `http://sua-url-base.com` *(Substitua pelo endereço real onde a API está hospedada, como localhost:3000 ou um domínio em produção)*.
+* **URL Base:** `http://localhost:3000`.
 * **Formato de Resposta Esperado:** JSON.
 * **Parâmetro de Rota (`/valor`):** Em todos os *endpoints* listados abaixo, substitua a palavra `valor` pelo número real que você deseja converter (ex: `/massa/kg-para-grama/5.5`).
 
